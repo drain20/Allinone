@@ -46,7 +46,7 @@
       <span class="icon-bar"></span>		        
     </button>	
        
-    <a class="navbar-brand" href="MyStory/First.jsp" style="color:white;font-weight:bold">		      		
+    <a class="navbar-brand" href="/WEB-INF/template/First.jsp" style="color:white;font-weight:bold">		      		
         스터티용 반응형 웹만들기
     </a>
     
@@ -55,7 +55,7 @@
     <div class="collapse navbar-collapse" id="collapseMenu">
     	
     	<ul class="nav navbar-nav navbar-right">   		
-    		<li><a class="backtomain"  href="<c:url value='ReplyBBS/BBS/Main.bbs'/>">MAIN</a></li>
+    		<li><a class="backtomain"  href="/WEB-INF/template/First.jsp">MAIN</a></li>
     		<li><a class="whoishe"  href="MyStory/Who.jsp">WHO?</a></li>
     		
       		
